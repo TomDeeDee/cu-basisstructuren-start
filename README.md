@@ -1,2 +1,2 @@
-# cu-basisstructuren
-Course piece on JavaScript basics
+# cu-basisstructuren-start
+Start for course piece on JavaScript basics
